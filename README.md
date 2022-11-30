@@ -1,7 +1,7 @@
 # Book
 
 
-## 이 챕터를 통해 배우는 것
+## 이 챕터를 통해 배운 것
 
 - **RecyclerView** 사용하기
 - **View Binding** 사용하기
